@@ -2,7 +2,7 @@
 	import { getTitle } from '../../lib/helpers';
 	export async function load({ params, fetch }) {
 		const { id } = params;
-		const res = await fetch(`/api/tests/${id}`);
+		const res = await fetch(`/api/tests/${id}.json`);
 		const data = await res.json();
 		const title = getTitle(id);
 		console.log(data);

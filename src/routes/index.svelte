@@ -2,7 +2,7 @@
 	import { getTitle } from '../lib/helpers';
 	export const prerender = true;
 	export async function load({ fetch }) {
-		const res = await fetch('/api/tests');
+		const res = await fetch('/api/tests.json');
 		const data = await res.json();
 		const list = data.tests.map((fileName) => {
 			const testName = fileName.replace(/-quiz\.json$/, '');
