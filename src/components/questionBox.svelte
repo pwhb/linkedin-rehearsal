@@ -44,9 +44,9 @@
 	</div>
 	<div class="bg-zinc-600 h-2 mt-3" />
 	<div class="flex flex-row items-center justify-between py-2">
-		<p class="ml-12">Q {question.id} / {total}</p>
+		<p class="ml-4">Q {question.id} / {total}</p>
 		<button
-			class="rounded rounded-2xl bg-blue-700 text-white px-3 py-1 my-2 mr-12"
+			class="rounded rounded-2xl bg-sky-700/75 text-white px-3 py-1 my-2 mr-4"
 			on:click={checkAnswer}>Check answer</button
 		>
 	</div>
