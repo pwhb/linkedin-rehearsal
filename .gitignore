@@ -2,6 +2,9 @@
 node_modules
 /build
 /.svelte-kit
+
+/src/constants/unused
+
 /package
 .env
 .env.*

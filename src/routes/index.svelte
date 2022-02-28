@@ -1,4 +1,5 @@
 <script context="module">
+	import { getTitle } from '../lib/helpers';
 	export const prerender = true;
 	export async function load({ fetch }) {
 		const res = await fetch('/api/tests');
@@ -6,7 +7,7 @@
 		const list = data.map((fileName) => {
 			const testName = fileName.replace(/-quiz\.json$/, '');
 			return {
-				title: testName.replaceAll('-', ' ').toUpperCase(),
+				title: getTitle(testName),
 				testName
 			};
 		});

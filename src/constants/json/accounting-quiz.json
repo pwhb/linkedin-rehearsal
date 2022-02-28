@@ -1,375 +1,532 @@
 [
-  {
-    "id": 1,
-    "question": "Which statement is not an advantage of robotic process automation (RPA)?",
-    "code": "",
-    "reference": "",
-    "choices": [
-      "Bots are more creative than humans",
-      "Bots do no need to take time off",
-      "Bots improve efficiency",
-      "Bots can eliminate human errors"
-    ],
-    "answer": [0]
-  },
-  {
-    "id": 2,
-    "question": "What effect does a contra asset account have on a balance sheet?",
-    "code": "",
-    "reference": "",
-    "choices": [
-      "A contra asset is not an accounting term",
-      "A contra asset has a credit balance and therefore a negative effect on total assets",
-      "A contra asset with a positive balance will increase overall liabilities",
-      "A contra asset has a debit balance and therefore a positive effect on total assets"
-    ],
-    "answer": [1]
-  },
-  {
-    "id": 3,
-    "question": "Internal controls may be preventative, detective, corrective, or directive. Which is a detective control?",
-    "code": "",
-    "reference": "",
-    "choices": [
-      "data backups",
-      "physical inventory check",
-      "employee background checks",
-      "physical locks on inventory warehouse"
-    ],
-    "answer": [1]
-  },
-  {
-    "id": 4,
-    "question": "On March 15, a business receives an invoice from the power company for utilities used in February. The retailer pays the invoice on April 1. The business uses accrual-based accounting. Which month should the business recognize the expense?",
-    "code": "",
-    "reference": "",
-    "choices": ["April", "March", "no record required", "February"],
-    "answer": [3]
-  },
-  {
-    "id": 5,
-    "question": "Which choice is a general guideline for adequate separation of duties to prevent both fraud and error?",
-    "code": "",
-    "reference": "",
-    "choices": [
-      "A person who has control over an asset should not safeguard that asset.",
-      "A person who has temporary or permanent custody of an asset should not account for that asset.",
-      "A person who has record-keeping responsibility should not make journal entries.",
-      "A person who has operational responsibility should not authorize transactions for the area."
-    ],
-    "answer": [2]
-  },
-  {
-    "id": 6,
-    "question": "What does the cost of a unit of product under absorption costing method consist of?",
-    "code": "",
-    "reference": "",
-    "choices": [
-      "direct materials, direct and indirect labor, and fixed overhead",
-      "direct materials, indirect labor, and variable and fixed overhead",
-      "direct materials, direct labor, and both variable and fixed overhead",
-      "direct materials, direct and indirect labor, and variable overhead"
-    ],
-    "answer": [2]
-  },
-  {
-    "id": 7,
-    "question": "Which answer best describes accruals and deferrals?",
-    "code": "",
-    "reference": "",
-    "choices": [
-      "Accruals are past cash receipts and payments, while deferrals are expected future cash receipts and payments.",
-      "Both accruals and deferrals are both expected future cash receipts and payments.",
-      "Accruals are expected future cash receipts and payments, while deferrals are past cash receipts and payments.",
-      "Both accruals and deferrals are not expected past cash receipts and payments."
-    ],
-    "answer": [2]
-  },
-  {
-    "id": 8,
-    "question": "What do you call a situation where more than one person collaborates to circumvent existing internal controls?",
-    "code": "",
-    "reference": "",
-    "choices": [
-      "assigned responsibility",
-      "segregation of duties",
-      "fraud prevention",
-      "collusion"
-    ],
-    "answer": [3]
-  },
-  {
-    "id": 9,
-    "question": "Which is not an example of an internal control activity?",
-    "code": "",
-    "reference": "",
-    "choices": [
-      "review of manufacturing plan",
-      "segregation of duties",
-      "bank reconciliations",
-      "approval process"
-    ],
-    "answer": [2]
-  },
-  {
-    "id": 10,
-    "question": "Which budgeting approach request justification of all expenditures?",
-    "code": "",
-    "reference": "",
-    "choices": [
-      "zero-based budgeting",
-      "master budgeting",
-      "rolling budgets",
-      "bottom-up budgeting"
-    ],
-    "answer": [0]
-  },
-  {
-    "id": 11,
-    "question": "What does the discontinued operations section of the income statement refer to?",
-    "code": "",
-    "reference": "",
-    "choices": [
-      "disposal of a major product line or major geographical area of operations",
-      "sale of unused or obsolete equipment and discontinued inventory",
-      "a plant shutdown or decommissioning of a facility",
-      "net income or loss for products completed and sold"
-    ],
-    "answer": [0]
-  },
-  {
-    "id": 12,
-    "question": "How are the three financial statements (income, statement, balance sheet, and cash flow statement) linked?",
-    "code": "",
-    "reference": "",
-    "choices": [
-      "Only the assets are reflected in the cash flow statement, and the net income expenses correlate with the liabilities.",
-      "The net income goes to retained earnings, but the cash flow remains independent.",
-      "The gross profit goes to retained earning, and the shareholder equity total is added to the cash flow statement",
-      "The net income goes to the retained earning and to the cash flow statement"
-    ],
-    "answer": [1]
-  },
-  {
-    "id": 13,
-    "question": "Which is not one of the four perspectives of the balanced scorecard?",
-    "code": "",
-    "reference": "",
-    "choices": [
-      "internal business",
-      "learning and growth",
-      "quantitative",
-      "customer"
-    ],
-    "answer": [2]
-  },
-  {
-    "id": 14,
-    "question": "What would be deducted from the balance per books when doing a bank reconciliation?",
-    "code": "",
-    "reference": "",
-    "choices": [
-      "deposits in transit",
-      "bank service fees",
-      "outstating checks",
-      "electronic fund transfers/payments"
-    ],
-    "answer": [2]
-  },
-  {
-    "id": 15,
-    "question": "What situation could be the results of the three retails store employees sharing the same cash register?",
-    "code": "",
-    "reference": "",
-    "choices": [
-      "a thorough internal control activity",
-      "a violation of assignment of responsibility",
-      "a violation of segregation of duties",
-      "a support process to avoid fraud"
-    ],
-    "answer": [1]
-  },
-  {
-    "id": 16,
-    "question": "A firm has $1,000 in debt and $3,000 in assets. What is the firm's debt-to-equity ratio?",
-    "code": "",
-    "reference": "",
-    "choices": ["3", "2", "0.5", "0.33"],
-    "answer": [3]
-  },
-  {
-    "id": 17,
-    "question": "An external auditor is required to be independent when performing",
-    "code": "",
-    "reference": "",
-    "choices": [
-      "all attestation services",
-      "all professional services",
-      "all tax services",
-      "all consulting engagements"
-    ],
-    "answer": []
-  },
-  {
-    "id": 18,
-    "question": "Proper segregation of functional responsibilities calls for separation of",
-    "code": "",
-    "reference": "",
-    "choices": [
-      "custody, payment, and recording",
-      "authorization, custody, and execution",
-      "authorization, custody, and recording",
-      "custody, execution, and payment"
-    ],
-    "answer": []
-  },
-  {
-    "id": 19,
-    "question": "What does the degree of operating leverage represent?",
-    "code": "",
-    "reference": "",
-    "choices": [
-      "how much the value of capital assets will change in response to a change in sales",
-      "how much the operating income of a company will change in response to a change in sales",
-      "the valuation of assets to determine how much additional debt the company can borrow",
-      "how much the sales of a company will change in response to a change in operating income"
-    ],
-    "answer": []
-  },
-  {
-    "id": 20,
-    "question": "Which characteristic would concern an auditor about the risk of material misstatements arising from fraudulent financial reporting?",
-    "code": "",
-    "reference": "",
-    "choices": [
-      "limited employee turnover within the accounting and finance department",
-      "management's disregard of regulations and regulatory authorities",
-      "regularly reported bank reconciliations, including deposits in transit",
-      "capital assets sold at a loss before being depreciated fully"
-    ],
-    "answer": []
-  },
-  {
-    "id": 21,
-    "question": "An employee who makes a sale, ships the goods, and bills the customer violates which control activity?",
-    "code": "",
-    "reference": "",
-    "choices": [
-      "assignment of responsibility",
-      "audit verification",
-      "segregation of duties",
-      "review and reconciliation"
-    ],
-    "answer": []
-  },
-  {
-    "id": 22,
-    "question": "What trait distinguishes auditors from accountants?",
-    "code": "",
-    "reference": "",
-    "choices": [
-      "The auditor can interpret accounting principles applicable to the country in which the client operates.",
-      "The auditor has extensive education beyond what is required for an accountant",
-      "The auditor can adapt to a rapidly changing profession.",
-      "The auditor has expertise in the gathering and interpretation of audit evidence."
-    ],
-    "answer": []
-  },
-  {
-    "id": 23,
-    "question": "What is the purpose of an operational audit?",
-    "code": "",
-    "reference": "",
-    "choices": [
-      "assessing the company's compliance with environmental laws and regulations",
-      "evaluating whether the organization is meeting the metrics set by management in order to achieve the goals and objectives set forth by the board of directors",
-      "assessing the organization's control mechanisms for overall efficiency and reliability",
-      "evaluating compliance with applicable laws, regulations, policies, and procedures"
-    ],
-    "answer": []
-  },
-  {
-    "id": 24,
-    "question": "Which statement is false?",
-    "code": "",
-    "reference": "",
-    "choices": [
-      "The balanced scorecard aligns an organization's operational activities with its mission.",
-      "The balanced scorecard focuses on these four primary areas: financial, customer, internal process, and learning and growth.",
-      "The balanced scorecard measures, tracks, and reports on a balance of qualitative and financial data and metrics.",
-      "The balanced scorecard ensures the organization's profitability aligns with director compensation and dividend expectations."
-    ],
-    "answer": []
-  },
-  {
-    "id": 25,
-    "question": "Which choice is not a component of internal control?",
-    "code": "",
-    "reference": "",
-    "choices": [
-      "information and communication",
-      "risk mitigation",
-      "monitoring",
-      "control environment"
-    ],
-    "answer": [1]
-  },
-  {
-    "id": 26,
-    "question": "What is the difference between the cost of an asset and the accumulated depreciation for that asset?",
-    "code": "",
-    "reference": "",
-    "choices": [
-      "depreciation value",
-      "prepaid asset",
-      "depreciation expense",
-      "book value"
-    ],
-    "answer": [3]
-  },
-  {
-    "id": 27,
-    "question": "A company budgeted 1,200 washers, but only 1,000 are produced. It costs $10 to produce a widget. What is the materials variance?",
-    "code": "",
-    "reference": "",
-    "choices": ["200", "2000", "350", "20"],
-    "answer": [0]
-  },
-  {
-    "id": 28,
-    "code": "",
-    "reference": "",
-    "choices": [
-      "external auditors",
-      "senior management",
-      "board of directors",
-      "union of employee representatives"
-    ],
-    "answer": [0]
-  },
-  {
-    "id": 29,
-    "code": "",
-    "reference": "",
-    "choices": [
-      "Debt asset, credit equity",
-      "Debt liablity, credit asset.",
-      "Debit asset, credit liability",
-      "Debit equity, credit asset."
-    ],
-    "answer": []
-  },
-  {
-    "id": 30,
-    "code": "",
-    "reference": "",
-    "choices": [
-      "Notes to the financial statements",
-      "An auditor's report",
-      "Listing of the stockholders",
-      "Management discussion and analysis"
-    ],
-    "answer": [0]
-  }
+	{
+		"id": 1,
+		"question": "Which statement is not an advantage of robotic process automation (RPA)?",
+		"code": "",
+		"reference": "",
+		"choices": [
+			{ "text": "Bots are more creative than humans", "answer": true, "code": false },
+			{ "text": "Bots do no need to take time off", "answer": false, "code": false },
+			{ "text": "Bots improve efficiency", "answer": false, "code": false },
+			{ "text": "Bots can eliminate human errors", "answer": false, "code": false }
+		]
+	},
+	{
+		"id": 2,
+		"question": "What effect does a contra asset account have on a balance sheet?",
+		"code": "",
+		"reference": "",
+		"choices": [
+			{ "text": "A contra asset is not an accounting term", "answer": false, "code": false },
+			{
+				"text": "A contra asset has a credit balance and therefore a negative effect on total assets",
+				"answer": true,
+				"code": false
+			},
+			{
+				"text": "A contra asset with a positive balance will increase overall liabilities",
+				"answer": false,
+				"code": false
+			},
+			{
+				"text": "A contra asset has a debit balance and therefore a positive effect on total assets",
+				"answer": false,
+				"code": false
+			}
+		]
+	},
+	{
+		"id": 3,
+		"question": "Internal controls may be preventative, detective, corrective, or directive. Which is a detective control?",
+		"code": "",
+		"reference": "",
+		"choices": [
+			{ "text": "data backups", "answer": false, "code": false },
+			{ "text": "physical inventory check", "answer": true, "code": false },
+			{ "text": "employee background checks", "answer": false, "code": false },
+			{ "text": "physical locks on inventory warehouse", "answer": false, "code": false }
+		]
+	},
+	{
+		"id": 4,
+		"question": "On March 15, a business receives an invoice from the power company for utilities used in February. The retailer pays the invoice on April 1. The business uses accrual-based accounting. Which month should the business recognize the expense?",
+		"code": "",
+		"reference": "",
+		"choices": [
+			{ "text": "April", "answer": false, "code": false },
+			{ "text": "March", "answer": false, "code": false },
+			{ "text": "no record required", "answer": false, "code": false },
+			{ "text": "February", "answer": true, "code": false }
+		]
+	},
+	{
+		"id": 5,
+		"question": "Which choice is a general guideline for adequate separation of duties to prevent both fraud and error?",
+		"code": "",
+		"reference": "",
+		"choices": [
+			{
+				"text": "A person who has control over an asset should not safeguard that asset.",
+				"answer": false,
+				"code": false
+			},
+			{
+				"text": "A person who has temporary or permanent custody of an asset should not account for that asset.",
+				"answer": false,
+				"code": false
+			},
+			{
+				"text": "A person who has record-keeping responsibility should not make journal entries.",
+				"answer": true,
+				"code": false
+			},
+			{
+				"text": "A person who has operational responsibility should not authorize transactions for the area.",
+				"answer": false,
+				"code": false
+			}
+		]
+	},
+	{
+		"id": 6,
+		"question": "What does the cost of a unit of product under absorption costing method consist of?",
+		"code": "",
+		"reference": "",
+		"choices": [
+			{
+				"text": "direct materials, direct and indirect labor, and fixed overhead",
+				"answer": false,
+				"code": false
+			},
+			{
+				"text": "direct materials, indirect labor, and variable and fixed overhead",
+				"answer": false,
+				"code": false
+			},
+			{
+				"text": "direct materials, direct labor, and both variable and fixed overhead",
+				"answer": true,
+				"code": false
+			},
+			{
+				"text": "direct materials, direct and indirect labor, and variable overhead",
+				"answer": false,
+				"code": false
+			}
+		]
+	},
+	{
+		"id": 7,
+		"question": "Which answer best describes accruals and deferrals?",
+		"code": "",
+		"reference": "",
+		"choices": [
+			{
+				"text": "Accruals are past cash receipts and payments, while deferrals are expected future cash receipts and payments.",
+				"answer": false,
+				"code": false
+			},
+			{
+				"text": "Both accruals and deferrals are both expected future cash receipts and payments.",
+				"answer": false,
+				"code": false
+			},
+			{
+				"text": "Accruals are expected future cash receipts and payments, while deferrals are past cash receipts and payments.",
+				"answer": true,
+				"code": false
+			},
+			{
+				"text": "Both accruals and deferrals are not expected past cash receipts and payments.",
+				"answer": false,
+				"code": false
+			}
+		]
+	},
+	{
+		"id": 8,
+		"question": "What do you call a situation where more than one person collaborates to circumvent existing internal controls?",
+		"code": "",
+		"reference": "",
+		"choices": [
+			{ "text": "assigned responsibility", "answer": false, "code": false },
+			{ "text": "segregation of duties", "answer": false, "code": false },
+			{ "text": "fraud prevention", "answer": false, "code": false },
+			{ "text": "collusion", "answer": true, "code": false }
+		]
+	},
+	{
+		"id": 9,
+		"question": "Which is not an example of an internal control activity?",
+		"code": "",
+		"reference": "",
+		"choices": [
+			{ "text": "review of manufacturing plan", "answer": false, "code": false },
+			{ "text": "segregation of duties", "answer": false, "code": false },
+			{ "text": "bank reconciliations", "answer": true, "code": false },
+			{ "text": "approval process", "answer": false, "code": false }
+		]
+	},
+	{
+		"id": 10,
+		"question": "Which budgeting approach request justification of all expenditures?",
+		"code": "",
+		"reference": "",
+		"choices": [
+			{ "text": "zero-based budgeting", "answer": true, "code": false },
+			{ "text": "master budgeting", "answer": false, "code": false },
+			{ "text": "rolling budgets", "answer": false, "code": false },
+			{ "text": "bottom-up budgeting", "answer": false, "code": false }
+		]
+	},
+	{
+		"id": 11,
+		"question": "What does the discontinued operations section of the income statement refer to?",
+		"code": "",
+		"reference": "",
+		"choices": [
+			{
+				"text": "disposal of a major product line or major geographical area of operations",
+				"answer": true,
+				"code": false
+			},
+			{
+				"text": "sale of unused or obsolete equipment and discontinued inventory",
+				"answer": false,
+				"code": false
+			},
+			{
+				"text": "a plant shutdown or decommissioning of a facility",
+				"answer": false,
+				"code": false
+			},
+			{
+				"text": "net income or loss for products completed and sold",
+				"answer": false,
+				"code": false
+			}
+		]
+	},
+	{
+		"id": 12,
+		"question": "How are the three financial statements (income, statement, balance sheet, and cash flow statement) linked?",
+		"code": "",
+		"reference": "",
+		"choices": [
+			{
+				"text": "Only the assets are reflected in the cash flow statement, and the net income expenses correlate with the liabilities.",
+				"answer": false,
+				"code": false
+			},
+			{
+				"text": "The net income goes to retained earnings, but the cash flow remains independent.",
+				"answer": true,
+				"code": false
+			},
+			{
+				"text": "The gross profit goes to retained earning, and the shareholder equity total is added to the cash flow statement",
+				"answer": false,
+				"code": false
+			},
+			{
+				"text": "The net income goes to the retained earning and to the cash flow statement",
+				"answer": false,
+				"code": false
+			}
+		]
+	},
+	{
+		"id": 13,
+		"question": "Which is not one of the four perspectives of the balanced scorecard?",
+		"code": "",
+		"reference": "",
+		"choices": [
+			{ "text": "internal business", "answer": false, "code": false },
+			{ "text": "learning and growth", "answer": false, "code": false },
+			{ "text": "quantitative", "answer": true, "code": false },
+			{ "text": "customer", "answer": false, "code": false }
+		]
+	},
+	{
+		"id": 14,
+		"question": "What would be deducted from the balance per books when doing a bank reconciliation?",
+		"code": "",
+		"reference": "",
+		"choices": [
+			{ "text": "deposits in transit", "answer": false, "code": false },
+			{ "text": "bank service fees", "answer": false, "code": false },
+			{ "text": "outstating checks", "answer": true, "code": false },
+			{ "text": "electronic fund transfers/payments", "answer": false, "code": false }
+		]
+	},
+	{
+		"id": 15,
+		"question": "What situation could be the results of the three retails store employees sharing the same cash register?",
+		"code": "",
+		"reference": "",
+		"choices": [
+			{ "text": "a thorough internal control activity", "answer": false, "code": false },
+			{ "text": "a violation of assignment of responsibility", "answer": true, "code": false },
+			{ "text": "a violation of segregation of duties", "answer": false, "code": false },
+			{ "text": "a support process to avoid fraud", "answer": false, "code": false }
+		]
+	},
+	{
+		"id": 16,
+		"question": "A firm has $1,000 in debt and $3,000 in assets. What is the firm's debt-to-equity ratio?",
+		"code": "",
+		"reference": "",
+		"choices": [
+			{ "text": "3", "answer": false, "code": false },
+			{ "text": "2", "answer": false, "code": false },
+			{ "text": "0.5", "answer": false, "code": false },
+			{ "text": "0.33", "answer": true, "code": false }
+		]
+	},
+	{
+		"id": 17,
+		"question": "An external auditor is required to be independent when performing",
+		"code": "",
+		"reference": "",
+		"choices": [
+			{ "text": "all attestation services", "answer": false, "code": false },
+			{ "text": "all professional services", "answer": false, "code": false },
+			{ "text": "all tax services", "answer": false, "code": false },
+			{ "text": "all consulting engagements", "answer": false, "code": false }
+		]
+	},
+	{
+		"id": 18,
+		"question": "Proper segregation of functional responsibilities calls for separation of",
+		"code": "",
+		"reference": "",
+		"choices": [
+			{ "text": "custody, payment, and recording", "answer": false, "code": false },
+			{ "text": "authorization, custody, and execution", "answer": false, "code": false },
+			{ "text": "authorization, custody, and recording", "answer": false, "code": false },
+			{ "text": "custody, execution, and payment", "answer": false, "code": false }
+		]
+	},
+	{
+		"id": 19,
+		"question": "What does the degree of operating leverage represent?",
+		"code": "",
+		"reference": "",
+		"choices": [
+			{
+				"text": "how much the value of capital assets will change in response to a change in sales",
+				"answer": false,
+				"code": false
+			},
+			{
+				"text": "how much the operating income of a company will change in response to a change in sales",
+				"answer": false,
+				"code": false
+			},
+			{
+				"text": "the valuation of assets to determine how much additional debt the company can borrow",
+				"answer": false,
+				"code": false
+			},
+			{
+				"text": "how much the sales of a company will change in response to a change in operating income",
+				"answer": false,
+				"code": false
+			}
+		]
+	},
+	{
+		"id": 20,
+		"question": "Which characteristic would concern an auditor about the risk of material misstatements arising from fraudulent financial reporting?",
+		"code": "",
+		"reference": "",
+		"choices": [
+			{
+				"text": "limited employee turnover within the accounting and finance department",
+				"answer": false,
+				"code": false
+			},
+			{
+				"text": "management's disregard of regulations and regulatory authorities",
+				"answer": false,
+				"code": false
+			},
+			{
+				"text": "regularly reported bank reconciliations, including deposits in transit",
+				"answer": false,
+				"code": false
+			},
+			{
+				"text": "capital assets sold at a loss before being depreciated fully",
+				"answer": false,
+				"code": false
+			}
+		]
+	},
+	{
+		"id": 21,
+		"question": "An employee who makes a sale, ships the goods, and bills the customer violates which control activity?",
+		"code": "",
+		"reference": "",
+		"choices": [
+			{ "text": "assignment of responsibility", "answer": false, "code": false },
+			{ "text": "audit verification", "answer": false, "code": false },
+			{ "text": "segregation of duties", "answer": false, "code": false },
+			{ "text": "review and reconciliation", "answer": false, "code": false }
+		]
+	},
+	{
+		"id": 22,
+		"question": "What trait distinguishes auditors from accountants?",
+		"code": "",
+		"reference": "",
+		"choices": [
+			{
+				"text": "The auditor can interpret accounting principles applicable to the country in which the client operates.",
+				"answer": false,
+				"code": false
+			},
+			{
+				"text": "The auditor has extensive education beyond what is required for an accountant",
+				"answer": false,
+				"code": false
+			},
+			{
+				"text": "The auditor can adapt to a rapidly changing profession.",
+				"answer": false,
+				"code": false
+			},
+			{
+				"text": "The auditor has expertise in the gathering and interpretation of audit evidence.",
+				"answer": false,
+				"code": false
+			}
+		]
+	},
+	{
+		"id": 23,
+		"question": "What is the purpose of an operational audit?",
+		"code": "",
+		"reference": "",
+		"choices": [
+			{
+				"text": "assessing the company's compliance with environmental laws and regulations",
+				"answer": false,
+				"code": false
+			},
+			{
+				"text": "evaluating whether the organization is meeting the metrics set by management in order to achieve the goals and objectives set forth by the board of directors",
+				"answer": false,
+				"code": false
+			},
+			{
+				"text": "assessing the organization's control mechanisms for overall efficiency and reliability",
+				"answer": false,
+				"code": false
+			},
+			{
+				"text": "evaluating compliance with applicable laws, regulations, policies, and procedures",
+				"answer": false,
+				"code": false
+			}
+		]
+	},
+	{
+		"id": 24,
+		"question": "Which statement is false?",
+		"code": "",
+		"reference": "",
+		"choices": [
+			{
+				"text": "The balanced scorecard aligns an organization's operational activities with its mission.",
+				"answer": false,
+				"code": false
+			},
+			{
+				"text": "The balanced scorecard focuses on these four primary areas: financial, customer, internal process, and learning and growth.",
+				"answer": false,
+				"code": false
+			},
+			{
+				"text": "The balanced scorecard measures, tracks, and reports on a balance of qualitative and financial data and metrics.",
+				"answer": false,
+				"code": false
+			},
+			{
+				"text": "The balanced scorecard ensures the organization's profitability aligns with director compensation and dividend expectations.",
+				"answer": false,
+				"code": false
+			}
+		]
+	},
+	{
+		"id": 25,
+		"question": "Which choice is not a component of internal control?",
+		"code": "",
+		"reference": "",
+		"choices": [
+			{ "text": "information and communication", "answer": false, "code": false },
+			{ "text": "risk mitigation", "answer": true, "code": false },
+			{ "text": "monitoring", "answer": false, "code": false },
+			{ "text": "control environment", "answer": false, "code": false }
+		]
+	},
+	{
+		"id": 26,
+		"question": "What is the difference between the cost of an asset and the accumulated depreciation for that asset?",
+		"code": "",
+		"reference": "",
+		"choices": [
+			{ "text": "depreciation value", "answer": false, "code": false },
+			{ "text": "prepaid asset", "answer": false, "code": false },
+			{ "text": "depreciation expense", "answer": false, "code": false },
+			{ "text": "book value", "answer": true, "code": false }
+		]
+	},
+	{
+		"id": 27,
+		"question": "A company budgeted 1,200 washers, but only 1,000 are produced. It costs $10 to produce a widget. What is the materials variance?",
+		"code": "",
+		"reference": "",
+		"choices": [
+			{ "text": "200", "answer": true, "code": false },
+			{ "text": "2000", "answer": false, "code": false },
+			{ "text": "350", "answer": false, "code": false },
+			{ "text": "20", "answer": false, "code": false }
+		]
+	},
+	{
+		"id": 28,
+		"code": "",
+		"reference": "",
+		"choices": [
+			{ "text": "external auditors", "answer": true, "code": false },
+			{ "text": "senior management", "answer": false, "code": false },
+			{ "text": "board of directors", "answer": false, "code": false },
+			{ "text": "union of employee representatives", "answer": false, "code": false }
+		]
+	},
+	{
+		"id": 29,
+		"code": "",
+		"reference": "",
+		"choices": [
+			{ "text": "Debt asset, credit equity", "answer": false, "code": false },
+			{ "text": "Debt liablity, credit asset.", "answer": false, "code": false },
+			{ "text": "Debit asset, credit liability", "answer": false, "code": false },
+			{ "text": "Debit equity, credit asset.", "answer": false, "code": false }
+		]
+	},
+	{
+		"id": 30,
+		"code": "",
+		"reference": "",
+		"choices": [
+			{ "text": "Notes to the financial statements", "answer": true, "code": false },
+			{ "text": "An auditor's report", "answer": false, "code": false },
+			{ "text": "Listing of the stockholders", "answer": false, "code": false },
+			{ "text": "Management discussion and analysis", "answer": false, "code": false }
+		]
+	}
 ]
 
