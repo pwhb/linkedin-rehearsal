@@ -6,8 +6,10 @@ function getJsonList() {
 }
 
 export async function get() {
-	const testList = getJsonList();
+	const tests = getJsonList();
 	return {
-		body: testList
+		body: {
+			tests
+		}
 	};
 }

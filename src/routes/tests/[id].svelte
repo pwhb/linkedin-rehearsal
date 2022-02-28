@@ -8,7 +8,7 @@
 		console.log(data);
 		return {
 			props: {
-				data,
+				data: data.questions,
 				title
 			}
 		};

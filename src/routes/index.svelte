@@ -4,7 +4,7 @@
 	export async function load({ fetch }) {
 		const res = await fetch('/api/tests');
 		const data = await res.json();
-		const list = data.map((fileName) => {
+		const list = data.tests.map((fileName) => {
 			const testName = fileName.replace(/-quiz\.json$/, '');
 			return {
 				title: getTitle(testName),
