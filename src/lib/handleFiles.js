@@ -1,7 +1,8 @@
 import fs from 'fs';
 
 export function getJsonData(testName) {
-	const jsonData = fs.readFileSync(`src/json/${testName}-quiz.json`);
+	const jsonData = fs.readFileSync(`src/json/${testName}-quiz.json`, 'utf8');
+	console.log('jsonData', jsonData);
 	return jsonData;
 }
 

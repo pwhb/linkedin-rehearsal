@@ -5,7 +5,6 @@
 		const res = await fetch(`/api/tests/${id}.json`);
 		const data = await res.json();
 		const title = getTitle(id);
-		console.log(data);
 		return {
 			props: {
 				data: data.questions,
