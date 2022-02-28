@@ -1,5 +1,5 @@
 <h1 class="text-center text-lg">About</h1>
-<p class="max-w-3xl px-4 mx-auto mt-4">
+<p class="max-w-3xl px-4 mx-auto my-4">
 	In case you think 'wait, is this really for rehearsal or is this for cheating?', yes, this website
 	is supposed to help you cheat linkedin tests. It's completely ethical to cheat stupid linkedin
 	tests so you can add a stupid badge in your stupid linkedin profile that rude and shameless
