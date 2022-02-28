@@ -44,7 +44,7 @@
 <div class="grid grid-cols-2 px-3  md:grid-cols-5 gap-4 mb-24">
 	{#each filteredList as { testName, title }}
 		<div
-			class="bg-sky-700/75 w-56 h-16 flex flex-col justify-center text-white text-center p-2 mx-auto rounded rounded-lg"
+			class="bg-sky-700/75 w-32 h-16 flex flex-col justify-center text-white text-center p-2 mx-auto rounded rounded-lg"
 		>
 			<a href={`/tests/${testName}`}>
 				{title}
