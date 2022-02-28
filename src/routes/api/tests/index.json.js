@@ -1,7 +1,7 @@
 import fs from 'fs';
 
 function getJsonList() {
-	const jsonList = fs.readdirSync('src/constants/json');
+	const jsonList = fs.readdirSync('json');
 	return jsonList.sort();
 }
 
