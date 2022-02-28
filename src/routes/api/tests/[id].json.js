@@ -1,15 +1,11 @@
-import { getJsonData } from '$lib/handleFiles';
-
 export async function get({ params }) {
-	const jsonData = getJsonData(params.id);
-	const questions = JSON.parse(jsonData).map((item) => {
-		return {
-			...item
-		};
-	});
+	const res = await fetch(
+		`https://raw.githubusercontent.com/pwhb/linkedin-rehearsal/main/src/json/${params.id}-quiz.json`
+	);
+	const data = await res.json();
 	return {
 		body: {
-			questions
+			questions: data
 		}
 	};
 }
