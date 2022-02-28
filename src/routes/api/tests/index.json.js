@@ -1,9 +1,4 @@
-import fs from 'fs';
-
-function getJsonList() {
-	const jsonList = fs.readdirSync('static/json');
-	return jsonList.sort();
-}
+import { getJsonList } from '$lib/handleFiles';
 
 export async function get() {
 	const tests = getJsonList();

@@ -1,12 +1,7 @@
-import fs from 'fs';
-//import path from 'path';
-
-//const fileDir = path.join(process.cwd(), 'json');
+import { getJsonData } from '$lib/handleFiles';
 
 export async function get({ params }) {
-	//const jsonDir = path.join(fileDir, `${params.id}-quiz.json`);
-	//const jsonData = fs.readFileSync(jsonDir);
-	const jsonData = fs.readFileSync(`static/json/${params.id}-quiz.json`);
+	const jsonData = getJsonData(params.id);
 	const questions = JSON.parse(jsonData).map((item) => {
 		return {
 			...item
