@@ -4,8 +4,6 @@ export async function get({ params }) {
 	);
 	const data = await res.json();
 	return {
-		body: {
-			questions: data
-		}
+		body: data
 	};
 }

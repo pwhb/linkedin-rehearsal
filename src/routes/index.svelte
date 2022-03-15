@@ -4,7 +4,7 @@
 	export async function load({ fetch }) {
 		const res = await fetch('/api/tests.json');
 		const data = await res.json();
-		const list = data.tests.map((fileName) => {
+		const list = data.map((fileName) => {
 			const testName = fileName.replace(/-quiz\.json$/, '');
 			return {
 				title: getTitle(testName),
@@ -40,6 +40,7 @@
 		bind:value={searchTerm}
 	/>
 </div>
+
 
 <div class="grid grid-cols-2 px-3  md:grid-cols-5 gap-4 mb-24">
 	{#each filteredList as { testName, title }}

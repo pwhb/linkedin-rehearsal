@@ -1,14 +1,15 @@
 <script context="module">
 	import { getTitle } from '../../lib/helpers';
-	export async function load({ params, fetch }) {
+	export async function load({ params, fetch, url }) {
 		const { id } = params;
 		const res = await fetch(`/api/tests/${id}.json`);
 		const data = await res.json();
 		const title = getTitle(id);
 		return {
 			props: {
-				data: data.questions,
-				title
+				data,
+				title,
+				url
 			}
 		};
 	}
@@ -18,6 +19,7 @@
 	import QuestionBox from '../../components/questionBox.svelte';
 	export let data;
 	export let title;
+	export let url;
 	let filterdQuizes;
 	let searchTerm = '';
 	$: {
@@ -37,6 +39,10 @@
 		class="border rounded rounded-lg py-2 px-4 w-full"
 		bind:value={searchTerm}
 	/>
+</div>
+
+<div class="m-8 text-center">
+	<a class="mx-4 text-lg hover:scale-110" href={`${url.href}/practice`}>Practice</a>
 </div>
 <div class="">
 	{#each filterdQuizes as quiz}
