@@ -30,7 +30,7 @@
 </script>
 
 <svelte:head>
-	<title>Linkedin Rehearsal</title>
+	<title>IT Tests</title>
 </svelte:head>
 <div class="m-8">
 	<input
